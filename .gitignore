@@ -1,0 +1,18 @@
+# Compiled binaries
+bin/
+*.exe
+
+# Runtime generated logs
+*.log
+window_spy_pro.log
+window_spy_log.txt
+hardware_sentinel.log
+shell_sentinel.log
+shell_spy_pro.log
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
